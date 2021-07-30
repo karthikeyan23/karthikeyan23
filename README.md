@@ -1,6 +1,6 @@
 ### Hello! I'm Karthik
  
-Entrepreneur [@beezlabs-org](https://github.com/beezlabs-org) , Experienced in SAP technical consulting, Open source, Artificial Intelligence, and Automation arena.
+Entrepreneur, Co-founder@ [@beezlabs-org](https://github.com/beezlabs-org) , Experienced in Cloud Computing, SAP technical consulting, Artificial Intelligence, and Process Automation Arena.
 
 ### GitHub Stats
 
