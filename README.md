@@ -1,8 +1,8 @@
-### Hello! I'm Karthik
+## Hello! I'm Karthik
  
 Entrepreneur, Co-founder [@beezlabs-org](https://github.com/beezlabs-org) , Experienced in Cloud Computing, SAP technical consulting, Artificial Intelligence, and Process Automation Arena.
 
-#### My Certifications
+### My Certifications
 
 
 <img src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="Certified Kubernetes Administrator (CKA)" style="height: 100px; width:100px;"/>
